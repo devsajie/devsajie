@@ -4,7 +4,7 @@
 🌍 From Nepal | Currently exploring software & creative tech  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=devsajie&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=devsajie&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
@@ -52,10 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsajie&layout=compact&theme=dark&hide_border=false" />
 </p>
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsajie&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
-</p>
 
 ---
