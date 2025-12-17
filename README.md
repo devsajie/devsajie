@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sajal
 
-💻 IT student | Developer | Tech Enthusiast  
-🌍 From Nepal | Currently exploring software & creative tech  
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=devsajie&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+💻 IT student | Developer | Tech Enthusiast  
+🌍 From Nepal | Currently exploring software & creative tech  
 
 
 
