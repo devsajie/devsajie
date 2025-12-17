@@ -1,4 +1,4 @@
-##                                                                                          👋 Hi, I'm Sajal
+<h1 align="center">Hi 👋, I'm Sajal</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devsajie&label=Profile%20Views&color=0e75b6&style=flat" />
