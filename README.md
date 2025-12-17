@@ -12,9 +12,6 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://facebook.com/sajal.nepal.33">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/devsajalnepal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,8 +21,6 @@
 </p>
 
 ---
-
-## 💻 Tech Stack
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
