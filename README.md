@@ -3,12 +3,11 @@
 💻 IT student | Developer | Tech Enthusiast  
 🌍 From Nepal | Currently exploring software & creative tech  
 
----
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=devsajie&icon=0&color=0" />
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -20,7 +19,7 @@
   </a>
 </p>
 
----
+
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -53,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsajie&layout=compact&theme=dark&hide_border=false" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
