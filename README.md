@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajal</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devsajie&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 💻 IT student | Developer | Tech Enthusiast  
 🌍 From Nepal | Currently exploring software & creative tech  
@@ -45,7 +42,6 @@
 ## 📊 GitHub Stats
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devsajie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=devsajie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsajie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
