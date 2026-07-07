@@ -41,10 +41,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=devsajie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devsajie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=devsajie&rank_icon=github&include_all_commits=true&theme=dark&hide=prs,issues)](https://github-stats-extended.vercel.app/api?username=devsajie&rank_icon=github&include_all_commits=true&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=devsajie&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=devsajie&langs_count=4&theme=dark)
+
 
 
 ---
